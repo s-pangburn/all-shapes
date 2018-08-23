@@ -9,6 +9,6 @@ class Circle
   end
 
   def say_goodbye
-    "Goodbye! I'm a #{@color} circle."
+    "Goodbye!"
   end
 end
